@@ -1,0 +1,35 @@
+/***********************************************************************************************
+ ***              C O N F I D E N T I A L  ---  W E S T W O O D  S T U D I O S               ***
+ ***********************************************************************************************
+ *                                                                                             *
+ *                 Project Name : Command & Conquer                                            *
+ *                                                                                             *
+ *                    File Name : KEYFRAME.CPP                                                 *
+ *                                                                                             *
+ *                   Programmer : Joe L. Bostic                                                *
+ *                                                                                             *
+ *                   Start Date : 06/25/95                                                     *
+ *                                                                                             *
+ *                  Last Update : June 25, 1995 [JLB]                                          *
+ *                                                                                             *
+ *---------------------------------------------------------------------------------------------*
+ * Functions:                                                                                  *
+ *   Get_Build_Frame_Count -- Fetches the number of frames in data block.                      *
+ *   Get_Build_Frame_Width -- Fetches the width of the shape image.                            *
+ *   Get_Build_Frame_Height -- Fetches the height of the shape image.                          *
+ * - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+/***********************************************************************************************
+ * Enable_Uncompressed_Shapes -- Restores state of shape decompression before it was disabled  *
+ *                                                                                             *
+ *                                                                                             *
+ *                                                                                             *
+ * INPUT:    Nothing                                                                           *
+ *                                                                                             *
+ * OUTPUT:   Nothing                                                                           *
+ *                                                                                             *
+ * WARNINGS: None                                                                              *
+ *                                                                                             *
+ * HISTORY:                                                                                    *
+ *    11/19/96 2:37PM ST : Created                                                             *
+ *=============================================================================================*/
